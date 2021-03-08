@@ -12,6 +12,7 @@ The revised solution has made improvements in the following areas
 1. Although it is not necessary with the current ProductOption model to use join when retrieving, it can be useful later
 2. Unit Tests are all passed when run individually
 3. Attached a Unit Test pdf with test evidence
+4. After download the source, the solution file can be found under RefactorThis-main/RefactorThis
 
 There are following endpoints:
 
